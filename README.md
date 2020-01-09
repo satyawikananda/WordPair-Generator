@@ -1,6 +1,6 @@
-# myapp
+# Wordpair Generator
 
-A new Flutter project.
+Flutter tutorial basic
 
 ## Getting Started
 
